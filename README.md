@@ -71,4 +71,4 @@
 
 **Credits:** <a href="https://github.com/yleonardo">Yhonatan Leonardo Mamani Torrez</a>  
 
-_Last updated: 03/03/2025_
+
